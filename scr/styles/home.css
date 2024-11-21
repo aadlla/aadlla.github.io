@@ -33,12 +33,6 @@
     color: #e9a209;
 }
 
-#cta_buttonsfts {
-    display: block;
-    gap: 24px;
-    color: #e9a209;
-}
-
 #cta_buttons a{
     text-decoration: none;
     color: white;
